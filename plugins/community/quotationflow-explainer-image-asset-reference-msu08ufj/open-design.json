@@ -1,0 +1,22 @@
+{
+  "$schema": "https://open-design.ai/schemas/plugin.v1.json",
+  "specVersion": "1.0.0",
+  "name": "quotationflow-explainer-image-asset-reference-msu08ufj",
+  "title": "QuotationFlow Explainer — Image Asset Reference",
+  "version": "0.1.0",
+  "description": "All four assets below are **reference images to generate and drop into the HyperFrames composition** at `.hyperframes-cache/1786765850-quotationflow/index.html`. Generate each in an image project (gpt-image-2 or flux-pro",
+  "od": {
+    "kind": "skill",
+    "taskKind": "new-generation",
+    "context": {
+      "skills": [
+        {
+          "path": "./SKILL.md"
+        }
+      ]
+    },
+    "capabilities": [
+      "prompt:inject"
+    ]
+  }
+}
