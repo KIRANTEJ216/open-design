@@ -1,0 +1,19 @@
+{
+  "candidateId": "cf7d7aba-6c98-4485-99c4-fb73940545c8",
+  "projectId": "d183e3d1-520f-4d55-8e09-05260a069039",
+  "runId": "a124a685-14a4-4f35-8417-0466daaeaf43",
+  "conversationId": "631e94b6-150f-4ef4-9525-084768eaed45",
+  "provenance": {
+    "summary": "Detected from asset-reference.md after a successful run.",
+    "detectedAt": 1786773685151
+  },
+  "sourceRefs": [
+    {
+      "kind": "file",
+      "value": "asset-reference.md",
+      "label": "asset-reference.md",
+      "size": 7798,
+      "copied": true
+    }
+  ]
+}
